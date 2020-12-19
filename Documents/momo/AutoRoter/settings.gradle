@@ -1,0 +1,5 @@
+rootProject.name='AutoRoter'
+include ':app'
+include ':router'
+include ':routerlibrary'
+include ':boundApi'
